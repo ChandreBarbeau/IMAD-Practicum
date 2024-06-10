@@ -1,6 +1,6 @@
 Chandre Barbeau-ST10445186
 
-https://github.com/ChandreBarbeau/Practicum
+https://github.com/ChandreBarbeau/IMAD-Practicum
 This app allows the user to click a button that will take them from the splash screen to the "Main Menu" 
 they will then be prompted to enter information 
 on the main menu screen there is three buttons (details,clear and exit) all with diffrent fuctions 
